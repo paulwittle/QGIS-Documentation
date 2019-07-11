@@ -389,7 +389,6 @@ Processing with their corresponding alg decorator constants
      - ``alg.BOOL``
      - A boolean value
    * - :class:`QgsProcessingParameterColor <qgis.core.QgsProcessingParameterColor>`
-     - Currently missing
      - A color
    * - :class:`QgsProcessingParameterCrs <qgis.core.QgsProcessingParameterCrs>`
      - ``alg.CRS``
